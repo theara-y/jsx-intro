@@ -1,0 +1,8 @@
+.Tweet {
+    background: rgb(53, 211, 255);
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
